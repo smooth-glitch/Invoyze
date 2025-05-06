@@ -22,8 +22,11 @@ Invoyze is a cross-platform inventory management solution built with Flutter and
 
 ## 📸Screenshots
 
-<!-- Add screenshots here if available -->
-<!-- ![Screenshot](screenshots/screen1.png) -->
+![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/1.png)![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/2.png)
+![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/3.png)![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/4.png)
+![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/5.png)![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/6.png)
+![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/7.png)![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/8.png)
+![image](https://raw.githubusercontent.com/smooth-glitch/Invoyze/refs/heads/main/screenshots/9.png)
 
 ## 🛠️Getting Started
 
