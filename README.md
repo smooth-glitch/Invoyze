@@ -1,6 +1,6 @@
 # Smart Inventory App
 
-Smart Inventory App is a cross-platform inventory management solution built with Flutter. It enables users to efficiently manage, scan, and track inventory items across Android, iOS, Web, Windows, macOS, and Linux platforms.
+Invoyze is a cross-platform inventory management solution built with Flutter and firebase. It enables users to efficiently manage, scan, and track inventory items across Android, iOS, Web, Windows, macOS, and Linux platforms.
 
 ## Features
 
