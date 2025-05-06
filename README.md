@@ -13,7 +13,12 @@ Invoyze is a cross-platform inventory management solution built with Flutter and
 - 💻📱🖥️Cross-platform support: Android, iOS, Web, Windows, macOS, Linux
 
 ## 💻 Tech Stack:
-
+![image](https://github.com/user-attachments/assets/914e60c2-72fb-4734-8196-52c5b2d9d622)
+![image](https://github.com/user-attachments/assets/826eb750-f022-4eb0-883c-6c1e6382404c)
+![image](https://github.com/user-attachments/assets/7e1edd41-457c-4583-a49a-67f3f2ff21c6)
+![image](https://github.com/user-attachments/assets/bf9f8750-779a-4e02-86f4-4cde8604b8dd)
+![image](https://github.com/user-attachments/assets/9ee33302-4f64-4abc-a2d6-25cc59e35a17)
+![image](https://github.com/user-attachments/assets/8014baa2-2b13-4420-9c8b-89421df896e6)
 
 ## 📸Screenshots
 
