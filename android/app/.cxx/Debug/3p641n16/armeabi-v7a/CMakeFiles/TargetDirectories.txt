@@ -1,0 +1,2 @@
+C:/Users/arjun/Desktop/Projects/Invoyze/Invoyze/android/app/.cxx/Debug/3p641n16/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/arjun/Desktop/Projects/Invoyze/Invoyze/android/app/.cxx/Debug/3p641n16/armeabi-v7a/CMakeFiles/rebuild_cache.dir

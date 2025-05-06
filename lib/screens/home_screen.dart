@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:smart_inventory_app/screens/add_product_screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:smart_inventory_app/screens/csv_upload_screen.dart';
 import 'package:smart_inventory_app/screens/create_invoice_screen.dart';
 import 'package:fl_chart/fl_chart.dart'; // Add fl_chart import
 import 'package:intl/intl.dart'; // Add intl import for currency formatting
@@ -135,6 +136,14 @@ class HomeScreen extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(builder: (context) => AddProductScreen()),
+                  );
+                }),
+                _buildQuickAction(Icons.upload_file, "Upload CSV", () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const CsvUploadScreen(),
+                    ),
                   );
                 }),
                 _buildQuickAction(Icons.receipt_long, "Create Invoice", () {
